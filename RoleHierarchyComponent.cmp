@@ -1,0 +1,4 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    
+	<kkltng:Hierarchy apexClassForData="DFSUtils" apexInput="CEO" />
+</aura:component>
