@@ -14,13 +14,13 @@ RoleUtils<br/>
 RoleUtilsTest<br/>
  
  
-<b>Lightning Components:</b>
+<b>Lightning Components:<b/>
 RoleHierarchy<br/>
  
-<b>StandALoneApps:</b>
+<b>StandALoneApps:<b/>
 RoleHierarchyApp<br/>
  
-<b>LightningPages:</b>
+<b>LightningPages:<b/>
 RoleHierarchy<br/>
 
 
