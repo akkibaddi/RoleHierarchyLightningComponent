@@ -29,3 +29,6 @@ Steps to Install
 4) As this managed package depends on the apexinput attribute, we need to input this attribute in RoleHierarchy Component.
 for example we can input apexInput="CEO" in RoleHierarchy Component from developer console.
 
+Enjoy the Component! 
+
+<img src="Role.png"></img>
