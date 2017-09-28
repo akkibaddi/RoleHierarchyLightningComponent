@@ -14,13 +14,13 @@ Steps to Install
   RoleUtilsTest<br/>
 
 
-  <b>Lightning Components:<br/>
+  <b>Lightning Components:</b><br/>
   RoleHierarchy<br/>
 
-  <b>StandALoneApps:<br/>
+  <b>StandALoneApps:</b><br/>
   RoleHierarchyApp<br/>
 
-  <b>LightningPages:<br/>
+  <b>LightningPages:</b><br/>
   RoleHierarchy<br/>
 
 
