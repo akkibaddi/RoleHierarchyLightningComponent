@@ -8,7 +8,7 @@ Steps to Install
 
 2) Deploy the following Components 
 
-<b>Apex Classes:</b>
+<b>Apex Classes:</b><br/>
 DFSUtils
 RoleUtils
 RoleUtilsTest
