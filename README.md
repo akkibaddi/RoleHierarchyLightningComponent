@@ -20,7 +20,7 @@ Steps to Install
   <b>StandALoneApps:<br/>
   RoleHierarchyApp<br/>
 
-  <b>LightningPages:<b/>
+  <b>LightningPages:<br/>
   RoleHierarchy<br/>
 
 
