@@ -1,6 +1,6 @@
 # RoleHierarchyLightningComponent
 
-This Component is used to display Role Hoerarchy in Lightning Experience with easy to navigate, search hierarchy, based on the <a href="https://appexchange.salesforce.com/listingDetail?listingId=a0N30000000q7G6EAI">App exchange Lightning Component</a> 
+This Component is used to display Role Hoerarchy in Lightning Experience with easy to navigate, search hierarchy based on the <a href="https://appexchange.salesforce.com/listingDetail?listingId=a0N30000000q7G6EAI">App exchange Lightning Component</a> 
 
 Steps to Install
 
