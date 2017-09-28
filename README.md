@@ -21,7 +21,7 @@ RoleHierarchy<br/>
 RoleHierarchyApp<br/>
  
 <b>LightningPages:</b>
-RoleHierarchyChemoursCorporate<br/>
+RoleHierarchy<br/>
 
 
 3) Activate the Page for required app/profiles you wish.
