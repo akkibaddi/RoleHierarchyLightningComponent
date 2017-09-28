@@ -9,19 +9,19 @@ Steps to Install
 2) Deploy the following Components 
 
 <b>Apex Classes:</b><br/>
-DFSUtils
-RoleUtils
-RoleUtilsTest
+DFSUtils<br/>
+RoleUtils<br/>
+RoleUtilsTest<br/>
  
  
 <b>Lightning Components:</b>
-RoleHierarchy
+RoleHierarchy<br/>
  
 <b>StandALoneApps:</b>
-RoleHierarchyApp
+RoleHierarchyApp<br/>
  
 <b>LightningPages:</b>
-RoleHierarchyChemoursCorporate
+RoleHierarchyChemoursCorporate<br/>
 
 
 3) Activate the Page for required app/profiles you wish.
